@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Alt text](https://images4.alphacoders.com/127/thumb-350-1279258.jpg)
+![Alt text](https://images4.alphacoders.com/127/thumb-350-1279258.jpg)
 
 I am Casidee (Cas) and I am a Graphic Information Technologies major with a concentration in user experience.
 I attend Arizona State University. After graduation, I hope to be able to use my visual arts skills along with my technical knowledge in my career.
